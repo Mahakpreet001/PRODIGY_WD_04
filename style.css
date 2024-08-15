@@ -107,7 +107,7 @@ section{
     justify-content: center;
     align-items: center;
     gap: 8rem;
-    background-color: rgb(94, 90, 83);
+    background-color: rgb(126 124 120);
 }
 
 .home .home-content h1{
@@ -173,7 +173,7 @@ span{
 .btn{
     display: inline-block;
     padding: 1rem 2.8rem;
-    background-color: rgb(94, 90, 83);
+    background-color: rgb(126 124 120);
     border-radius: 4rem;
     font-size: 1.6rem;
     color: white;
@@ -209,7 +209,7 @@ span{
 
 .typing-text span::after{
     content: "";
-    background-color: rgb(94, 90, 83);
+    background-color: rgb(126 124 120);
     position: absolute;
     width: calc(100% + 8px);
     height: 100%;
